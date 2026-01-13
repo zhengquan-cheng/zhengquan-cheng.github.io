@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-> [Chinese Version](/CV_Chinese.pdf) &emsp;
+> [Chinese Version] &emsp;
